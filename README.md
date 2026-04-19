@@ -18,7 +18,7 @@ This project is a Power BI dashboard created to analyze sales performance across
 
 ##  Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot 2026-04-19 210119.png)
 
 ##  Insights
 
